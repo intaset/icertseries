@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@icepr.org";
+$my_email = "info@icertseries.com";
 
 /*
 
@@ -123,7 +123,7 @@ mail($my_email,$subject,$message,$headers);
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
 <meta name="keywords" content="environment conference, biofuels conference, desalination conference, wastewater conference, pollution conference, remediation conference, environmental engineering conference, environmental pollution conference, environmental remediation conference, environmental treatment conference, air pollution conference, water pollution conference, wasterwater pollution conference, soil pollution conference, environmental protection, environmental sustainability, environmental development, greenhouse, global warming, climate change, groudwater, oil spills, renewable energy, water treatment, soil treatment, wastewater treatment, environment, biofuels, desalination, wastewater, pollution, remediation, environmental engineering, environmental pollution, environmental remediation, environmental treatment, air pollution, water pollution, wasterwater pollution, soil pollution, environmental protection conference, environmental sustainability conference, environmental development conference, greenhouse conference, global warming conference, climate change conference, groudwater conference, oil spills conference, renewable energy conference, water treatment conference, soil treatment conference, wastewater treatment conference">
-<title>ICEPR'17 - Contact Us</title>
+<title>ICERT'17 - Contact Us</title>
 
 <meta name="handheldfriendly" content="true">
 <meta name="mobileoptimized" content="240">
@@ -138,7 +138,7 @@ mail($my_email,$subject,$message,$headers);
 <script src="../js/modernizr.custom.63321.js"></script>
 <script>
   (function() {
-    var cx = '016656741306535874023:y7as1mei7la';
+    var cx = '016656741306535874023:xyclcrbtkl8';
     var gcse = document.createElement('script');
     gcse.type = 'text/javascript';
     gcse.async = true;
@@ -152,7 +152,7 @@ mail($my_email,$subject,$message,$headers);
 
 <body>
 <nav id="slide-menu">
-  <h1>ICEPR'17</h1>
+  <h1>ICERT'17</h1>
   <ul>
     <li><a href="/">Home</a></li>
     <li><a href="../papers">Paper Submissions</a></li>
@@ -194,7 +194,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
         <div class="bg">
-          <h1>7<sup>th</sup> International Conference on Environmental<br>Pollution and Remediation (ICEPR'17)</h1>
+          <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
           <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -220,7 +220,7 @@ mail($my_email,$subject,$message,$headers);
         </div>
 
         <div class="bg">
-          <h1>7<sup>th</sup> International Conference on Environmental<br>Pollution and Remediation (ICEPR'17)</h1>
+          <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
           <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
@@ -248,15 +248,9 @@ mail($my_email,$subject,$message,$headers);
       <div id="main-slider" class="liquid-slider">
     <div>
       <h2 class="title">1</h2>
-      <p class="bold">ICEPR 2017:</p>
-      <p class="body">ICEPR 2017 will  be held in Rome, Italy on June 7 - 8, 2017.</p>
+      <p class="bold">ICERT 2017:</p>
+      <p class="body">ICERT 2017 will  be held in Rome, Italy on June 7 - 8, 2017.</p>
       
-      <!-- <p class="bold">ICNFA'16 Symposiums:</p>
-      <p class="body">The Organizing Committee has selected the following fields for specialized and focused symposiums under the umbrella of ICNFA'16:</p>
-      <ul>
-        <li><a href="/fmrr" class="body-link">Functional Materials from Renewable Resources: Synthesis, Properties and Applications</a></li>
-      </ul>
-      <p class="body">If you are interested of your article to be part of the above-mentioned symposiums, please inform us when submitting your article. Please visit <a href="../symposium" class="body-link">Symposiums</a> for more information.</p> -->
     </div>       
 
     <div>
@@ -268,9 +262,9 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">3</h2>
       <p class="bold">Propose Exhibits, Workshops & More</p>
-      <p class="body">ICEPR attracts a wide range of researchers in the field of environmental pollution and remediation. As a prominent company in the field of environmental pollution and remediation, we would like to offer you an exhibit at ICEPR. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
+      <p class="body">ICERT attracts a wide range of researchers in the field of energy research and technology. As a prominent company in the field of energy research and technology, we would like to offer you an exhibit at ICERT. Please visit <a href="../events" class="body-link">Events</a> for more information.</p>
     </div>
-  </div>
+</div>
 
     </div>
   </div>
@@ -278,7 +272,7 @@ mail($my_email,$subject,$message,$headers);
 <div class="unit unit-s-1 unit-m-1-4-1 unit-l-1-4-1">
   <div class="unit-spacer content">
     <p class="body">We have received your message and we will try our best to get back to you within the next 48 hours.<br><br>
-    Thank you for your interest in ICEPR'17.</p>
+    Thank you for your interest in ICERT'17.</p>
   </div>
 </div>
 
@@ -357,13 +351,13 @@ mail($my_email,$subject,$message,$headers);
     Ottawa, Ontario, Canada<br>
     Postal Code: K1H 7Y3<br>
     +1-613-695-3040<br>
-    <a href="mailto:info@icepr.org">info@icepr.org</a></p>
+    <a href="mailto:info@icertseries.com">info@icertseries.com</a></p>
     </div>
   </div>
 
   <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 contact">
   <div class="unit-spacer">
-  <p class="body">For questions or comments regarding ICEPR'17, please fill out the form below:</p>
+  <p class="body">For questions or comments regarding ICERT'17, please fill out the form below:</p>
 
     <form action="../contactus.php" method="post" enctype="multipart/form-data" name="ContactForm">
   
