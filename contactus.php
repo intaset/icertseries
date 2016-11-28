@@ -195,7 +195,7 @@ mail($my_email,$subject,$message,$headers);
 </div>
         <div class="bg">
           <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
-          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
+          <p class="subhead">June 6 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -209,6 +209,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important;">ICERT'17 is part of the <b>3<sup>rd</sup> World Congress on New Technologies (NewTech'17)</b>. For more information about the congress, please visit the website here: <a href="http://2017.newtechcongress.com/" class="body-link">www.2017.newtechcongress.com</a>.</p>
         </div>
     </div>
 
@@ -221,7 +222,7 @@ mail($my_email,$subject,$message,$headers);
 
         <div class="bg">
           <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
-          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
+          <p class="subhead">June 6 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -235,6 +236,7 @@ mail($my_email,$subject,$message,$headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important; color: #FFF!important;">ICERT'17 is part of the <b>3<sup>rd</sup> World Congress on New Technologies (NewTech'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2017.newtechcongress.com/" class="body-link">www.2017.newtechcongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -249,8 +251,20 @@ mail($my_email,$subject,$message,$headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICERT 2017:</p>
-      <p class="body">ICERT 2017 will  be held in Rome, Italy on June 7 - 8, 2017.</p>
+      <p class="body">ICERT 2017 will  be held in Rome, Italy on June 6 - 8, 2017.</p>
       
+      <p class="bold">NewTech'17 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the NewTech'17 congress to three days (now June 6 - 8, 2017). The new high-level schedule is as follows:</p>
+
+      <ul>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
+      </ul>
+      
+      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
     </div>       
 
     <div>

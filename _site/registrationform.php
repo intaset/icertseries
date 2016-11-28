@@ -59,11 +59,11 @@ $message = $message . PHP_EOL.PHP_EOL."-- ".PHP_EOL."";
 
 $message = stripslashes($message);
 
-$subject = "Registration Details for " . $_REQUEST['Email'];
+$subject = "Registration Details for " . $_REQUEST['email'];
 
-$headers = "From: " . $_REQUEST['Email'];
+$headers = "From: " . $_REQUEST['email'];
 
-$your_email = $_REQUEST['Email'];
+$your_email = $_REQUEST['email'];
 
 $your_subject = "Your Registration Details for ICERT'17";
 
@@ -112,7 +112,11 @@ mail($your_email,$your_subject,$message,$your_headers);
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="robots" content="noarchive">
 <meta name="description" content="">
+<<<<<<< HEAD
 <meta name="keywords" content="biomass, biofuel, bioenergy, solar cell, nuclear energy, energy efficiency, climate change, global warming, fossil fuels, tidal energy, ocean energy, wave energy, energy management, energy harvesting, numerical simulation, heat transfer, heat source, microchannel, industrial heat transfer, experimental heat transfer, numerical heat transfer, renewable energy, non-renewable energy, two phase flow and heat transfer, multiphase flow and heat transfer, combustion, boiler, heater, furnace, conservation equations, natural convection, force convection, conduction, radiation, convection, free convection, non Newtonian heat transfer, non Newtonian fluid flow and heat transfer, heat pipe, bioenergy, wind turbine, heat recovery, thermal elecric, high temperature heat transfer, energy storage, transport phenomena, turbomachinary, MDS, thermodynamics, thermophysical properties, DNS, direct numerical simulation, clean energy, green energy, battery, energy storage, water energy, offshore wind, onshore wind, advanced building, smart grid technologies, smart cities, electric vehicle, energy distribution, innovative energy technologies, utilities, oil and gas, alternative energy, fossil fuels, heat, light, power, power plant, steam turbine, gas turbine, electrical grid, smart grid, natural gas, natural gas transport, liquefied natural gas, CNG, LNG, natural gas storage, fission, fussion, solar PV, PV, refinery, heavy oil, refining, light oil, coal liquefaction, waste to energy, pyrolysis, energy harvesting, photovoltaic, petroleum, Battery Energy Storage, Biomass, Biofuel, and Bioenergy, Energy and Climate Change, Energy and Environmental Pollution, Energy and Nanotechnology, Energy and Societal Aspects, Energy and Transportation, Energy Companies Challenges, Energy Conversion, Energy Distribution, Energy Efficiency-Achievements and Challenges, Energy Financing, Energy Infrastructures, Marketing and Economy, Energy Management, Energy Storage, Electric Vehicles, Fossil Fuels, Fuel Cells, Geothermal Energy, Global Energy Policy, Hydroenergy, Low Carbon Technologies, Nuclear Energies, Prospects and Issues, Smart Buildings, Smart Lightings, Solar Cell Theory and Applications, Solar Thermal Energy, Sustainable Energy, Wave and Tide Energies, Energy efficiency, Smart grids, Energy, Energy and transport, Case studies, Energy Demand and Economic Growth, Energy Research and Development, Non-fossil Fuel Energy: Renewables and Nuclear, Energy Efficiency and Storage, Financial Markets and Energy Markets, Political Economy, OPEC’s Role in a Changing Energy World, Energy Supply and Economic Growth, Energy and the Environment, International Energy Markets, Energy Research and Development, Public Understanding of and Attitudes towards Energ, Petroleum Economics, Geopolitics of Energy, Energy Markets and Regulation, Challenges in Gas Supply and Transportation, Regional Energy Markets, Energy Policy for Sustainable Development, Energy Supply, Demand and Economic Growth, Regional Electricity Trade, Energy Efficiency and Storage, Regional Strategies for Alternative and Renewable Energy, Oil and Gas investments in a low price scenario;, Regional Impact of the Unconventional Oil and Gas Revolution;, Renewable energy diffusion: Policies and implications;, The geopolitics of oil and natural gas;, The utilities of the future;, Energy supply security;, Energy and development: poverty and sustainability;, Energy technology and innovation policy in Latam, Energy efficiency policy in Latam, Energy Integration, Energy Transition, Energy and Climate Change, Transportation and Mobility, Energy Modelling, Future of Nuclear Power, Energy and Macroeconomics, Fiscal Impacts of the energy sector, Energy Subsidies, Power Systems, Power Electronics, Machines, Electromechanics, and Drives, Renewable Energy Technologies, Energy Markets and Demand Response, Energy conference, Energy conference 2017">
+=======
+<meta name="keywords" content="">
+>>>>>>> origin/master
 <title>ICERT'17 - Registration Form Filled!</title>
 
 <meta name="handheldfriendly" content="true">
@@ -185,7 +189,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 </div>
         <div class="bg">
           <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
-          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
+          <p class="subhead">June 6 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -199,6 +203,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important;">ICERT'17 is part of the <b>3<sup>rd</sup> World Congress on New Technologies (NewTech'17)</b>. For more information about the congress, please visit the website here: <a href="http://2017.newtechcongress.com/" class="body-link">www.2017.newtechcongress.com</a>.</p>
         </div>
     </div>
 
@@ -211,7 +216,7 @@ mail($your_email,$your_subject,$message,$your_headers);
 
         <div class="bg">
           <h1>International Conference on Energy<br>Research and Technology (ICERT'17)</h1>
-          <p class="subhead">June 7 - 8, 2017 | Rome, Italy</p>
+          <p class="subhead">June 6 - 8, 2017 | Rome, Italy</p>
 
           <a href="../papers" class="bg-link">Paper Submission</a> <p class="dot">&middot;</p> <a href="../dates" class="bg-link">Important Dates</a> <p class="dot">&middot;</p> <a href="../registration" class="bg-link">Registration</a>
 
@@ -225,6 +230,7 @@ mail($your_email,$your_subject,$message,$your_headers);
   </div>
 </div>
 </div>
+<br><p class="body" style="text-align:center!important; color: #FFF!important;">ICERT'17 is part of the <b>3<sup>rd</sup> World Congress on New Technologies (NewTech'17)</b>.<br>For more information about the congress, please visit the website here: <a href="http://2017.newtechcongress.com/" class="body-link">www.2017.newtechcongress.com</a>.</p>
         </div>
         </div> 
       </div>
@@ -239,8 +245,20 @@ mail($your_email,$your_subject,$message,$your_headers);
     <div>
       <h2 class="title">1</h2>
       <p class="bold">ICERT 2017:</p>
-      <p class="body">ICERT 2017 will  be held in Rome, Italy on June 7 - 8, 2017.</p>
+      <p class="body">ICERT 2017 will  be held in Rome, Italy on June 6 - 8, 2017.</p>
       
+      <p class="bold">NewTech'17 Workshop</p>
+      <p class="body">As per popular request, the organizing committee has decided to extend the NewTech'17 congress to three days (now June 6 - 8, 2017). The new high-level schedule is as follows:</p>
+
+      <ul>
+        <li>Day 1: Workshop(s) and Registration</li>
+        <li>Day 2: Main Track Conference Sessions</li>
+        <li>Day 2: Main Track Conference Sessions and Gala dinner or Cruise tour</li>
+      </ul>
+      
+      <p class="body">Registration for the workshop will be 121 EURs (VAT included) and separate from the main conferences. Workshop attendees will receive a certificate of participation. For registration, please visit: <a href="../registration" class="body-link">here</a>.</p>
+
+      <p class="body">More information to follow; we greatly appreciate your patience!</p>
     </div>       
 
     <div>
