@@ -1,6 +1,6 @@
 <?php
 
-$my_email = "info@icepr.org";
+$my_email = "info@icertseries.com";
 
 $name=$_POST['Name'];
 $email=$_POST['Email'];
