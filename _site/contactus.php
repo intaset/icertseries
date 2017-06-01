@@ -12,7 +12,7 @@ $captcha = false;
 // check if not robot
 if (isset($_POST['g-recaptcha-response']) && !empty($_POST['g-recaptcha-response'])) {
   $captcha = true;
-  $secret = '6Lfw9A0TAAAAAPFmOXCv6ly__5rgk7yEwqMJEqXT';
+  $secret = '6LeiFyMTAAAAAOlHuTG9qpbBT-L39ZxdhxtC3sCi';
   //get verify response data
   $verifyResponse = file_get_contents('https://www.google.com/recaptcha/api/siteverify?secret='.$secret.'&response='.$_POST['g-recaptcha-response']);
   $responseData = json_decode($verifyResponse);
